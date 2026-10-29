@@ -1,0 +1,6 @@
+{
+  "name": "세종특별자치시교육청",
+  "description": "세종특별자치시교육청 공식 대표 누리집(포털) - 새로운 학교 행복한 아이들, 모두가 특별해지는 세종교육",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
